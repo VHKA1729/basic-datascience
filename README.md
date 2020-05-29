@@ -1,2 +1,2 @@
-# basic-python
-Some basic python code (assignments + examples)
+# basic-datascience
+Some basic datascience code in python (assignments + examples)
